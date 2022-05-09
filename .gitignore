@@ -1,0 +1,8 @@
+__pycache__
+.venv
+.env
+.history
+workspace.code-workspace
+.hypothesis/
+build/
+reports/
